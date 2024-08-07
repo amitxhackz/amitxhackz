@@ -6,5 +6,5 @@
 
 ###
 
-<h2 align="center">My name is AMIT and I'm a BCA student. 💂</h2>
+<h2 align="center">I'm a BCA student. 💂</h2>
 
