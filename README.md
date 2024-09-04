@@ -1,5 +1,5 @@
 <div align="center">
-    <img height="200" src="F:\Drive\deface image\png logo\logo .png" />
+    <img height="200" src="" />
 </div>
 
 <h1 align="center">Welcome To My Github.</h1>
