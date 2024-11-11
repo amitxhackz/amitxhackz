@@ -8,3 +8,5 @@
 
 <h2 align="center">I'm a BCA student. 💂</h2>
 
+[![](https://visitcount.itsvg.in/api?id=amitxhackz&label=Eye&pretty=false)](https://visitcount.itsvg.in) 
+
